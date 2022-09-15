@@ -37,6 +37,9 @@ iframe#tela{
     height: 471px;
     width: 269px;
 }
+section#redes-sociais{
+    margin-left: 30px;
+}
 section#redes-sociais img{
     width: 50px;
     margin: 10px;
